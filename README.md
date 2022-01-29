@@ -8,6 +8,10 @@
 
 <img align="left" alt="OpenGL" src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
 
+<img align="left" alt="Rust" src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" />
+
+<img align="left" alt="Vulkan" src="https://img.shields.io/badge/Vulkan-black?style=for-the-badge&logo=Vulkan&logoColor=#AC162C" />
+
 
 
 <!--
